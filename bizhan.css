@@ -1,0 +1,38 @@
+body{
+    font-family: tahoma , sans-serif;
+    text-align: center;
+    direction: ltr;
+    background-color: rgb(228, 229, 214);
+    padding: 30px;
+
+}
+h1{
+    color: rgb(43, 189, 226);
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+li{
+    margin: 5px 0;
+}
+button{
+    margin-top:20px ;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(144, 106, 50);
+    color: rgb(240, 255, 243);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+p img{
+    vertical-align: middle;
+    margin-right: 5px;
+    height: 20px;
+    width: 20px;
+}
+a{
+    text-decoration: none;
+}
